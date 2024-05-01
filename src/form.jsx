@@ -72,4 +72,4 @@ const CompanyForm = () => {
   );
 };
 
-export default CompanyForm;
+export default Form;
